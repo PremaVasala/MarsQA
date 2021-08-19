@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsQA-1", "MarsQA-1\MarsQA-1.csproj", "{BBA2A8F5-9367-433F-83A7-C413CA615F33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0FD203B-D28E-4CA2-936D-3B6F19CCF6E3}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA2A8F5-9367-433F-83A7-C413CA615F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA2A8F5-9367-433F-83A7-C413CA615F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA2A8F5-9367-433F-83A7-C413CA615F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA2A8F5-9367-433F-83A7-C413CA615F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C7E0B4E-89F1-4D28-B85E-9032567DEAC6}
+	EndGlobalSection
+EndGlobal
